@@ -1,8 +1,8 @@
-# ENSF614_Final_Project_Group15
+# Airline Web App
 ### Clone the repository
 1. Clone the repository by running this command in your terminal
 ```
-git clone https://github.com/chrisbrunet/ENSF614_Final_Project_Group15.git
+git clone https://github.com/chrisbrunet/Airline_Web_App.git
 ```
 
 ### How to Launch and Run the MySQL Server
